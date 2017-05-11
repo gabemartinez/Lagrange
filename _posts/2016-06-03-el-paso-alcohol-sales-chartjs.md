@@ -22,4 +22,4 @@ Summary of the application build process: I used [npm](https://www.npmjs.com/) (
 
 See app screenshot below.
 
-![El Paso Alcohol Sales App Screenshot](/img/txalcsales-screenshot.png)
+![El Paso Alcohol Sales App Screenshot](/images/txalcsales-screenshot.png)
