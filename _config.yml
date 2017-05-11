@@ -1,19 +1,19 @@
 # Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
+title:               Gabriel Martinez
+tagline:             a blog
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+baseurl:            ""
+url:                "http://gabemartinez.github.io/"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               "http://gabemartinez.github.io/"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  name:              "Gabriel Martinez"
+  email:             "hi@martinezgabriel.com"
+  twitter:           "gabrielmartinez"
+  instagram:         #""
+  github:            "gabemartinez"
+  facebook:          #""
+  linkedin:          "martinezg"
 navigation:
 - title: About
   url: /about
@@ -22,7 +22,7 @@ navigation:
 - title: Contact
   url: /contact
 
-paginate:            5
+paginate:            3
 disqus:              #"your-disqus"
 
 # Build settings
