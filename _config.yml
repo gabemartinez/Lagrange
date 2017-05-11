@@ -3,9 +3,9 @@ title:               Gabriel Martinez
 tagline:             a blog
 description:
 baseurl:            ""
-url:                "http://gabemartinez.github.io/"
+url:                "http://gabemartinez.github.io"
 github:
-  url:               "http://gabemartinez.github.io/"
+  url:               "http://gabemartinez.github.io"
 author:
   name:              "Gabriel Martinez"
   email:             "hi@martinezgabriel.com"
